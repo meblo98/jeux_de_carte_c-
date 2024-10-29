@@ -1,0 +1,14 @@
+/home/meblo/Bureau/exercices/JeuDeCartes/obj/Debug/net8.0/JeuDeCartes.GeneratedMSBuildEditorConfig.editorconfig
+/home/meblo/Bureau/exercices/JeuDeCartes/obj/Debug/net8.0/JeuDeCartes.AssemblyInfoInputs.cache
+/home/meblo/Bureau/exercices/JeuDeCartes/obj/Debug/net8.0/JeuDeCartes.AssemblyInfo.cs
+/home/meblo/Bureau/exercices/JeuDeCartes/obj/Debug/net8.0/JeuDeCartes.csproj.CoreCompileInputs.cache
+/home/meblo/Bureau/exercices/JeuDeCartes/bin/Debug/net8.0/JeuDeCartes
+/home/meblo/Bureau/exercices/JeuDeCartes/bin/Debug/net8.0/JeuDeCartes.deps.json
+/home/meblo/Bureau/exercices/JeuDeCartes/bin/Debug/net8.0/JeuDeCartes.runtimeconfig.json
+/home/meblo/Bureau/exercices/JeuDeCartes/bin/Debug/net8.0/JeuDeCartes.dll
+/home/meblo/Bureau/exercices/JeuDeCartes/bin/Debug/net8.0/JeuDeCartes.pdb
+/home/meblo/Bureau/exercices/JeuDeCartes/obj/Debug/net8.0/JeuDeCartes.dll
+/home/meblo/Bureau/exercices/JeuDeCartes/obj/Debug/net8.0/refint/JeuDeCartes.dll
+/home/meblo/Bureau/exercices/JeuDeCartes/obj/Debug/net8.0/JeuDeCartes.pdb
+/home/meblo/Bureau/exercices/JeuDeCartes/obj/Debug/net8.0/JeuDeCartes.genruntimeconfig.cache
+/home/meblo/Bureau/exercices/JeuDeCartes/obj/Debug/net8.0/ref/JeuDeCartes.dll
